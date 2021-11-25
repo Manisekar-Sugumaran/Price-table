@@ -1,0 +1,15 @@
+.bgc{
+    background-color: rgb(255, 217, 0);
+    padding: 50px;
+}
+
+#total {
+    display: flex;
+
+   
+}
+
+#img{
+    display: flex !important;
+}
+
